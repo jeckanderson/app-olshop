@@ -1,0 +1,28 @@
+/* .footer{
+    width: 100%;
+    position: fixed;
+    bottom:0;
+    left: 0;
+} */
+.content-utama{
+    margin-top: 30px;
+}
+.navbar{
+    background: #157ed2;
+}
+
+.ul-footer li{
+    list-style-type: none;
+    margin-bottom: 4px;
+}
+.footer-top{
+    color: #d0d0d3;
+    /* background: #202020; */
+    font-size: 13px;
+}
+.footer-bottom{
+    /* background: #157ed2; */
+    background: #121212;
+    color: #d0d0d3;
+    font-size: 12px;
+}
